@@ -1,6 +1,15 @@
 body {
   background-color: #D8D3C9;}
 
+
+
+  .container1{
+display: grid; 
+width: 1200px;
+gap: 14px;
+padding: 28px;
+border-radius: 24px;
+}
     .container1 {
         display: flex;
         width: 1200px;
